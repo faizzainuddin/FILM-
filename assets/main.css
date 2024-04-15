@@ -375,6 +375,13 @@ html {
   }
 }
 
+.card-film{
+  position: relative;
+  margin-bottom: 56px;
+  z-index: 1000;
+  background: transparent;
+}
+
 ::-webkit-scrollbar {
   width: 1.3rem;
 }
